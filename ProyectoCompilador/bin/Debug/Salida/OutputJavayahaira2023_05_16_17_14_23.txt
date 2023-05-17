@@ -1,0 +1,8 @@
+a Iden  0
++ CarEsp
+8 CteEnt  0
+= CarEsp
+98 CteEnt  1
+; CarEsp
+aoskda CteStr  0
+9.9 CteReal  0

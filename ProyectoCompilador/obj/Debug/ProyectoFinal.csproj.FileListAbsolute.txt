@@ -1,0 +1,13 @@
+C:\Users\52866\Desktop\Compilador\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\52866\Desktop\Compilador\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\52866\Desktop\Compilador\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\52866\Desktop\Compilador\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\52866\Desktop\Compilador\ProyectoFinal\obj\Debug\ProyectoFinal.frmCompilador.resources
+C:\Users\52866\Desktop\Compilador\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\52866\Desktop\Compilador\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\52866\Desktop\Compilador\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\52866\Desktop\Compilador\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\52866\Desktop\Compilador\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\52866\Desktop\Compilador\ProyectoFinal\obj\Debug\ProyectoFinal.Sesion.resources
+C:\Users\52866\Desktop\Compilador\ProyectoFinal\obj\Debug\ProyectoFinal.frmLenguaje.resources
+C:\Users\52866\Desktop\Compilador\ProyectoFinal\obj\Debug\ProyectoFinal.frmRegistro.resources

@@ -1,0 +1,8 @@
+a = 2;
+b = 56;
+	56.75
+	"abcd"
+'g'
+int
+public
+/*abcd*/

@@ -1,0 +1,14 @@
+a Iden  0
+= CarEsp
+2 CteEnt  0
+; CarEsp
+b Iden  1
+= CarEsp
+56 CteEnt  1
+; CarEsp
+56.75 CteReal  0
+abcd CteStr  0
+g CteChar  0
+int Reser  26
+public Reser  35
+abcd Coment
